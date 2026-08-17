@@ -1,0 +1,3 @@
+ssh ip: 1.1.1.1
+kullanici: root
+sifre: akpartisevdasi31
